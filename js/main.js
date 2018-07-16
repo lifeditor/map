@@ -46,9 +46,6 @@
     var element = selectElement(target, collection);
 
     if (element) {
-      // if (element.placemark) {
-      //  element.placemark.balloon.open();
-      // }
       yandexMap
         .setCenter([element.x, element.y], element.zoom, {checkZoomRange: true});
       var placemark = element.placemark;

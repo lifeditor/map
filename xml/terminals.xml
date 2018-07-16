@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<terminals>
+  <terminal id="0" name="00001" address="г.Москва, Таганская ул., 1/1" cityId="0" districtId="0" x="55.741524" y="37.656724" zoom="10"/>
+  <terminal id="1" name="00002" address="г. Москва, Варшавское шоссе, 26" cityId="0" districtId="0" x="55.684730" y="37.622009" zoom="10"/>
+  <terminal id="2" name="00003" address="г. Москва, Новоясеневский проспект, 22" cityId="0" districtId="0" x="55.606577" y="37.527523" zoom="10"/>
+  <terminal id="3" name="00004" address="г. Москва, Головинское шоссе, 5" cityId="0" districtId="0" x="55.840573" y="37.491719" zoom="10"/>
+  <terminal id="4" name="00005" address="г. Москва, Анадырский проезд, 8" cityId="0" districtId="0" x="55.863172" y="37.682220" zoom="10"/>
+  <terminal id="5" name="00006" address="г. Москва, ул. Зорге, 18" cityId="0" districtId="0" x="55.786675" y="37.509660" zoom="10"/>
+</terminals>

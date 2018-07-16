@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<districts>
+  <district id="0" name="м. Алексеевская" x="55.807685" y="37.638752" cityId="0" zoom="15"/>
+  <district id="1" name="м. Алтуфьево" x="55.898994" y="37.586632" cityId="0" zoom="15"/>
+  <district id="2" name="м. Анинно" x="56.005772" y="36.119871" cityId="0" zoom="15"/>
+  <district id="3" name="м. Аэропорт" x="55.800642" y="37.532215" cityId="0" zoom="15"/>
+  <district id="4" name="м. Бабушкинская" x="55.869725" y="37.664137" cityId="0" zoom="15"/>
+  <district id="5" name="м. Беговая" x="55.773616" y="37.547021" cityId="0" zoom="15"/>
+  <district id="6" name="м. ВДНХ" x="55.822502" y="37.641048" cityId="0" zoom="15"/>
+  <district id="7" name="м. Водный стадион" x="55.839374" y="37.486725" cityId="0" zoom="15"/>
+  <district id="8" name="м. Войковская" x="55.818801" y="37.498012" cityId="0" zoom="15"/>
+  <district id="9" name="м. Выхино" x="55.715786" y="37.817967" cityId="0" zoom="15"/>
+  <district id="10" name="м. Дмитровская" x="55.80795" y="37.580988" cityId="0" zoom="15"/>
+  <district id="11" name="м. Измайловская" x="55.787674" y="37.781682" cityId="0" zoom="15"/>
+  <district id="12" name="м. Каховская" x="55.652919" y="37.598348" cityId="0" zoom="15"/>
+  <district id="13" name="м. Киевская" x="55.743287" y="37.565818" cityId="0" zoom="15"/>
+  <district id="14" name="м. Китай-Город" x="55.755255" y="37.632465" cityId="0" zoom="15"/>
+  <district id="15" name="м. Кожуховская" x="55.706031" y="37.685659" cityId="0" zoom="15"/>
+  <district id="16" name="м. Коломенская" x="55.677887" y="37.663772" cityId="0" zoom="15"/>
+  <district id="17" name="м. Красносельская" x="55.77994" y="37.666175" cityId="0" zoom="15"/>
+  <district id="18" name="м. Крылатское" x="55.756438" y="37.408276" cityId="0" zoom="15"/>
+  <district id="19" name="м. Кунцевская" x="55.730614" y="37.445934" cityId="0" zoom="15"/>
+  <district id="20" name="м. Марьино" x="55.650183" y="37.743702" cityId="0" zoom="15"/>
+  <district id="21" name="м. Октябрьское поле" x="55.793417" y="37.49342" cityId="0" zoom="15"/>
+  <district id="22" name="м. Отрадное" x="55.863259" y="37.604764" cityId="0" zoom="15"/>
+  <district id="23" name="м. Перово" x="37.785587" y="55.750883" cityId="0" zoom="15"/>
+  <district id="24" name="м. Пионерская" x="55.735954" y="37.46707" cityId="0" zoom="15"/>
+  <district id="25" name="м. Планерная" x="55.86067" y="37.435226" cityId="0" zoom="15"/>
+  <district id="26" name="м. Полежаевская" x="55.777514" y="37.518911" cityId="0" zoom="15"/>
+  <district id="27" name="м. Пражская" x="55.611881" y="37.603798" cityId="0" zoom="15"/>
+  <district id="28" name="м. Преображенская пл." x="55.796034" y="37.715614" cityId="0" zoom="15"/>
+  <district id="29" name="м. Проспект Вернадского" x="55.676689" y="37.505608" cityId="0" zoom="15"/>
+  <district id="30" name="м. Речной вокзал" x="55.854998" y="37.476146" cityId="0" zoom="15"/>
+  <district id="31" name="м. Сокол" x="55.804754" y="37.515564" cityId="0" zoom="15"/>
+  <district id="32" name="м. Сокольники" x="55.789315" y="37.679844" cityId="0" zoom="15"/>
+  <district id="33" name="м. Строгино" x="55.80359653829958" y="37.40278244018555" cityId="0" zoom="15"/>
+  <district id="34" name="м. Тимирязевская" x="55.819006" y="37.575452" cityId="0" zoom="15"/>
+  <district id="35" name="м. Тушинская" x="55.826829" y="37.437458" cityId="0" zoom="15"/>
+  <district id="36" name="м. Ул. Подбельского" x="55.814352" y="37.734067" cityId="0" zoom="15"/>
+  <district id="37" name="м. Университет" x="55.69152" y="37.535477" cityId="0" zoom="15"/>
+  <district id="38" name="м. Филевский парк" x="55.739675" y="37.48518" cityId="0" zoom="15"/>
+  <district id="39" name="м. Юго-Западная" x="55.663535" y="37.483292" cityId="0" zoom="15"/>
+  <district id="40" name="м. Южная" x="55.622908" y="37.608862" cityId="0" zoom="15"/>
+</districts>

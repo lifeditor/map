@@ -1,0 +1,40 @@
+
+.header {
+  background-color: silver;
+  color: white;
+  text-align: center;
+  font: bold 14px Arial;
+  height:30px;
+  line-height:30px;
+}
+
+.container_control {
+  position: absolute;
+  float: left;
+  width: 20%;
+  padding-left: 20px;
+}
+
+.container_map {
+  float: right;
+  width: 75%;
+  height: 800px;
+  border: 1px solid black;
+}
+
+body {
+  background-color: #FDF5E6;
+}
+
+select {
+  width: 50%;
+  float: right;
+}
+
+input {
+  float: right;
+}
+
+label {
+  font: bold 12px Arial;
+}

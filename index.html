@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	  <title>title</title>
+    <meta charset="utf-8">
+	  <link type="text/css" href="css/style.css" rel="stylesheet" />
+    <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
+  </head>
+  <body>
 
+    <div class="header" id="header">
+      <p>Сеть обслуживания клиентов</p>
+    </div>
+
+    <div class="container_control">
+      <p>
+        <label for="cityList">Город</label>
+        <select id="cityList"></select>
+      </p>
+      <p>
+        <label for="districtList">Район/метро</label>
+        <select id="districtList"></select>
+      </p>
+      <p>
+        <label for="officeList">Офис на карте</label>
+        <select id="officeList"></select>
+      </p>
+      <p>
+        <label for="terminalList">Терминал на карте</label>
+        <select id="terminalList"></select>
+      </p>
+      <p>
+        <label for="toggleOffices">Показывать офисы</label>
+        <input type="checkbox" id="toggleOffices" checked="true">
+      </p>
+      <p>
+        <label for="toggleTerminals">Показывать терминалы</label>
+        <input type="checkbox" id="toggleTerminals" checked="true">
+      </p>
+    </div>
+
+    <div class="container_map" id="map"></div>
+
+    <script type="text/javascript" src="js/util.js"></script>
+    <script type="text/javascript" src="js/backend.js"></script>
+    <script type="text/javascript" src="js/data.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+  </body>
+</html>

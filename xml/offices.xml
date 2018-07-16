@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" ?>
+<offices>
+  <office id="0" name="офис Стромынский" address="г.Москва, ул. Стромынка, 14 корпус 2" cityId="0" districtId="0" x="55.792943" y="37.692291" zoom="10"/>
+  <office id="1" name="доп. офис Гагаринский" address="г.Москва, ул. Вавилова, 3" cityId="0" districtId="0" x="55.706832" y="37.591818" zoom="10"/>
+  <office id="2" name="доп. офис Дегунинский" address="г.Москва, ул. Дубнинская, 12Б строение 18" cityId="0" districtId="0" x="55.864833" y="37.572636" zoom="10"/>
+</offices>

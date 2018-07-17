@@ -62,11 +62,10 @@
 
   window.data = {
 
-    parseXml: function (text) {
+    parseXml: function (data) {
       var list = [];
-      var data = new DOMParser().parseFromString(text, 'text/xml');
-      var nodeList = data.firstChild.children;
-      var firstNodeName = data.firstChild.nodeName;
+      var nodeList = data.children;
+      var rootNodeName = data.nodeName;
 
       [].forEach.call(nodeList, function (node) {
         var id = node.getAttribute('id');
@@ -77,7 +76,7 @@
         var address = node.getAttribute('address');
         var cityId = parseInt(node.getAttribute('cityId'), 10);
         var districtId = parseInt(node.getAttribute('districtId'), 10);
-        list.push(element[firstNodeName]
+        list.push(element[rootNodeName]
           .set(id, name, x, y, zoom, address, cityId, districtId)
         );
       });

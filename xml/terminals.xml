@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0"?>
 <terminals>
   <terminal id="0" name="00001" address="г.Москва, Таганская ул., 1/1" cityId="0" districtId="0" x="55.741524" y="37.656724" zoom="10"/>
   <terminal id="1" name="00002" address="г. Москва, Варшавское шоссе, 26" cityId="0" districtId="0" x="55.684730" y="37.622009" zoom="10"/>
